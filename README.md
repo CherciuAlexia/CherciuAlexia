@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexia</h1>
 <h3 align="center">Fueled by creativity and passion, I’m learning how to create meaningful digital experiences as a UX/UI designer while advancing my expertise through a degree in digital media.</h3>
 
-- 🔭 I’m currently working on **bachelor’s thesis, an analysis of the Goodreads interface and game mechanics**
+- 🔭 I’m currently working on my **bachelor’s thesis, an analysis of the Goodreads interface and game mechanics**
 
 - 🌱 I’m currently learning **about gamification frameworks**
 
